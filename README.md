@@ -1,2 +1,0 @@
-# Git
-Github , gitlab , gitbash
